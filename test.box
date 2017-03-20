@@ -1,0 +1,6 @@
+
+faye = 5
+faye2 = 2
+faye faye2 *
+.
+
