@@ -29,7 +29,7 @@ public class Box {
         try {
             file = new Scanner(new File(path));
         } catch (FileNotFoundException e) {
-            System.out.println("Wheres-The-Fucking-File?-Exception");
+            System.out.println("Wheres-The-File?-Exception");
         } 
 
         // the entire file inside a string for easy lookup
